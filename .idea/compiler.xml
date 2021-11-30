@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="suaxe-web-logic" />
+        <module name="suaxe-core-persistence-data" />
+        <module name="suaxe-core-service" />
+        <module name="suaxe-core-service-impl" />
+        <module name="suaxe-core-common" />
+        <module name="suaxe-core-dao" />
+        <module name="suaxe-core-web" />
+        <module name="suaxe-core-data" />
+        <module name="suaxe-core-dao-impl" />
+        <module name="suaxe-web" />
+        <module name="suaxe-core-utils" />
+        <module name="suaxe-core-dto" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
